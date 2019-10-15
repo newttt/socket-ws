@@ -1,0 +1,2 @@
+<input type="text" bindinput="inputHandler"></input>
+<button bindtap="sendHandler">提交</button>
